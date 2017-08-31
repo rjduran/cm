@@ -1,2 +1,2 @@
 # cm
-My cm repo
+My cm repo is where the magic happens.
