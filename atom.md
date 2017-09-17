@@ -14,7 +14,8 @@ To manage: Packages > Installed Packages > Community Packages
 * pigments
 * tool-bar
 * tool-bar-atom
-* atom-ternjs
+* [atom-ide-ui](https://atom.io/packages/atom-ide-ui) _(contains Hyperclick)_
+* [atom-ternjs](https://atom.io/packages/atom-ternjs) _(optional: used for js/nodejs/jquery + more development)_
 
 Theme of choice: One Dark (UI Theme and Syntax Theme)
 
