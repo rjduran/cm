@@ -1,8 +1,6 @@
-# Atom Tutorial
+# Setting a Development Environment with Atom
 
-### Setting a Development Environment with Atom IDE
-
-Download at [atom.io](http://atom.io)
+Download at [atom.io](http://atom.io) for Windows or Mac.
 
 **Packages**
 
