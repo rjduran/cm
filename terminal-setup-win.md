@@ -1,7 +1,5 @@
 # How to setup a development environment on Windows
 
-Critical Making Studio | Fall 2017
-
 This tutorial walks through setting up a development environment on Windows 10 similar to what is found on MacOS or any other Unix system. This guide walks through installing Git, ConEmu, Setting up SSH, connecting to a Github repo, and installing Miniconda for managing python environments.
 
 ## Install Git and ConEmu
