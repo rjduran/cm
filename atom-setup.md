@@ -1,4 +1,4 @@
-# Setting a Development Environment with Atom
+# Setting Up a Development Environment with Atom
 
 Download at [atom.io](http://atom.io) for Windows or Mac.
 
