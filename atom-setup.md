@@ -18,6 +18,9 @@ To manage: Packages > Installed Packages > Community Packages
 * [atom-ternjs](https://atom.io/packages/atom-ternjs) _(optional: used for js/nodejs/jquery + more development)_
 * [document-outline](https://atom.io/packages/document-outline) _Useful for navigating large markdown documents_
 * [platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal) _Working fork of terminal-plus_
+* [autoclose-html](https://atom.io/packages/autoclose-html)
+* [autoupdate-packages](https://atom.io/packages/auto-update-packages)
+* [autocomplete-modules](https://atom.io/packages/autocomplete-modules) _Useful for quickly including node_modules_
 
 **Themes**
 
