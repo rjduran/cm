@@ -25,6 +25,7 @@ To manage: Packages > Installed Packages > Community Packages
 * [sync-settings](https://atom.io/packages/sync-settings)
 * [todo-show](https://atom.io/packages/todo-show)
 * [color-picker](https://atom.io/packages/color-picker)
+* [markdown-preview-enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Replacement for default `markdown-preview`
 
 **JS Development**
 
@@ -44,3 +45,18 @@ Theme of choice: One Dark (UI Theme and Syntax Theme)
 You can also install packages (and themes) using Atom's package manager command line utility "apm" in the Terminal. All packages are installed in ~/.atom/packages.
 
 ``apm install file-icons``
+
+## Other Tweaks
+
+Hide Specific Files
+
+TO hide files or folders such as .git and .DS_Store, Check the box Packages > tree-view > Settings > Hide Ignored Names. This will enable the setting and use the list of "Ignored Names" shown under Settings > Core > Ignored Names. By default, this list consists of .git, .hg, .svn, .DS_Store, ._*, Thumbs.db, desktop.ini.
+
+
+
+
+
+
+
+
+
